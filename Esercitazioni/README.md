@@ -1,1 +1,1 @@
-Dopo ogni esercitazione, il codice prodotto sarà inserito qui.
+Prima di ogni esercitazione qui verranno caricate le slide introduttive, i data set e gli eventuali codici di utilità necessari.
